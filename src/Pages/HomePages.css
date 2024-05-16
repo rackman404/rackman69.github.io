@@ -1,0 +1,10 @@
+.textSubContainer {
+  border: 2px solid #ccc;
+  padding: 20px;
+  width: fit-content(100%);
+}
+
+.aboutMeContainer {
+  border: 2px solid #ccc;
+  padding: 10px;
+}
