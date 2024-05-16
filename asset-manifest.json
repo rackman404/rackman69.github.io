@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rackman69.github.io/github-pages/static/css/main.e72d7527.css",
-    "main.js": "/rackman69.github.io/github-pages/static/js/main.233ed1c1.js",
-    "static/js/453.ff2cd7f0.chunk.js": "/rackman69.github.io/github-pages/static/js/453.ff2cd7f0.chunk.js",
-    "index.html": "/rackman69.github.io/github-pages/index.html",
-    "main.e72d7527.css.map": "/rackman69.github.io/github-pages/static/css/main.e72d7527.css.map",
-    "main.233ed1c1.js.map": "/rackman69.github.io/github-pages/static/js/main.233ed1c1.js.map",
-    "453.ff2cd7f0.chunk.js.map": "/rackman69.github.io/github-pages/static/js/453.ff2cd7f0.chunk.js.map"
+    "main.css": "/rackman69.github.io/static/css/main.e72d7527.css",
+    "main.js": "/rackman69.github.io/static/js/main.18790ffc.js",
+    "static/js/453.ff2cd7f0.chunk.js": "/rackman69.github.io/static/js/453.ff2cd7f0.chunk.js",
+    "index.html": "/rackman69.github.io/index.html",
+    "main.e72d7527.css.map": "/rackman69.github.io/static/css/main.e72d7527.css.map",
+    "main.18790ffc.js.map": "/rackman69.github.io/static/js/main.18790ffc.js.map",
+    "453.ff2cd7f0.chunk.js.map": "/rackman69.github.io/static/js/453.ff2cd7f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e72d7527.css",
-    "static/js/main.233ed1c1.js"
+    "static/js/main.18790ffc.js"
   ]
 }
