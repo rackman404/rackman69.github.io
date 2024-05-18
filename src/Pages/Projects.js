@@ -6,6 +6,12 @@ import cssClasses from './Projects.css' //is used
 import InfoContainersData from "../Components/InfoContainersData"
 import InfoContainers from "../Components/InfoContainers"
 
+//MUI imports
+import Box from '@mui/material/Box';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import { Typography } from "@mui/material";
+
 const headerText = "Personal Projects";
 const softwareHeaderText = "Software";
 const ArtHeaderText = "Digital Art";
@@ -35,6 +41,7 @@ const Projects = (props) => {
                 <h2 style = {{textAlign: "center"}} >{ArtHeaderText}</h2>
 
                 <div class = "grid-container">
+                    
                             {artInfoList.map((item,index) => {
                                 return (
                                     <InfoContainers key={index} item = {item}/>
